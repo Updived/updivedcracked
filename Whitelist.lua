@@ -8,5 +8,10 @@ return {
         Name = "Updived",
         User = "332988872512372746",
         Ping = "<@332988872512372746>"
+    },
+    ["df96bce0e4d3b5c2fe5ad9941c1ed283dbe6e3cda8ecf28e18f6022fdb8ecea6"] = {
+        Name = "Logo.",
+        User = "477974886258573342",
+        Ping = "<@477974886258573342>"
     }
 }
