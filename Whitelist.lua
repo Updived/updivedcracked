@@ -40,9 +40,9 @@ return {
         Ping = "<@536449748345946132>"
     },
     [""] = {
-        Name = "",
-        User = "",
-        Ping = "<@>"
+        Name = "Latinas",
+        User = "1025544634694389821",
+        Ping = "<@1025544634694389821>"
     },
     ["f11afc046bcf7351b43465a04ad4a115b8f0528155c029c58ebf4d08a29a5a4c"] = {
         Name = "horror",
